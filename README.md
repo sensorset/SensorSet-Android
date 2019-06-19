@@ -1,2 +1,4 @@
 # SensorSet-Android
-Log issues with SensorSet Android here
+View,Record and Stream Sensor Data from your Android Device. 
+
+Repo is to Log issues with the SensorSet Android Application.
